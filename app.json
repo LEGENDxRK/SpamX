@@ -1,17 +1,17 @@
 {
-      "name": "SpamX - RiZoeL",
-      "description": "A Pyrogram Based Span Bots With Many Cmds Fast And Stable",
-      "logo": "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg",
+      "name": "SpamX - Venom",
+      "description": "A Pyrogram Based Spam Bots With Many Cmds Fast And Stable",
+      "logo": "https://telegra.ph/file/4c13beea0f4b44999a48b.jpg",
       "keywords": [
         "telegram",
         "PYROGRAM",
         "telegram-bot",
-        "RiZoeLXSpam",
+        "VenomXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/MrRizoel",
-  "website": "https://github.com/RiZoeLX",
-  "success_url": "https://t.me/RiZoeLX",
+  "repository": "https://github.com/venomowners20912/SpamX",
+  "website": "https://github.com/venomowners20912/SpamX",
+  "success_url": "https://t.me/dostokijaan",
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
