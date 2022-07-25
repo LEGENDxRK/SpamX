@@ -54,7 +54,7 @@ syntax:
 syntax:
  {hl}fspam (count) (message to spam)
  
-**Note:** Fast Spam Is Harmful for IDs Don't Blame to @RiZoeLX If IDs Get ban -!
+**Note:** Fast Spam Is Harmful for IDs Don't Blame to @Itz_venom_ayush If IDs Get ban -!
 
 
 **pornspam**: Porn Spam for given counter.
@@ -70,7 +70,7 @@ syntax:
 {hl}hang (counts)
 
 
-**© @RiZoeLX**
+**© @Itz_venom_ayush **
 """
 
 
@@ -89,7 +89,7 @@ command:
 command:
   {hl}dmraid (count) (username or user id)
 
-**© @RiZoeLX**
+**© @Itz_venom_ayush **
 """
 
 
@@ -101,7 +101,7 @@ Syntax:
   {hl}join private/public Chat invite link or username
 
 
-**© @RiZoeLX
+**© @Itz_venom_ayush
 """
 
 leave_help = f"""
@@ -112,7 +112,7 @@ syntax:
 i) {hl}leave group Username or chat user id
 ii) {hl}leave
 
-**© @RiZoeLX**
+**© @Itz_venom_ayush **
 """
 
 userbot_help = f"""
@@ -124,7 +124,7 @@ userbot_help = f"""
 
 - {hl}restart : To Restart Your Spam Bots
 
-**© @RiZoeLX**
+**© @Itz_venom_ayush **
 """
 
 
@@ -139,11 +139,11 @@ commands:
 2) {hl}setbio (coustom Bio)
 3) {hl}setpic (reply to media)
 
-**© @RiZoeLX **
+**© @Itz_venom_ayush **
 """
 
 help_menu = f"""
-**SpamX Help Menu **
+**Venom-SpamX Help Menu **
 
 **There are following categories**
 
@@ -157,5 +157,5 @@ help_menu = f"""
 **Type** {hl}help (category) **to get all syntax in that category and its usage**
 **Example**: `{hl}help spam`
 
-**© @RiZoeLX**
+**© @Itz_venom_ayush **
 """
