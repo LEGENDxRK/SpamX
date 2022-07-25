@@ -77,7 +77,7 @@ async def dm(xspam: Client, e: Message):
           ok = await xspam.get_users(usr)
           id = ok.id
           if int(id) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on @Itz_venom_ayush's Owner"
                 await e.reply_text(text)
           elif int(id) == OWNER_ID:
                 text = f"This guy is Owner Of this Bots."
@@ -94,7 +94,7 @@ async def dm(xspam: Client, e: Message):
           ok = await xspam.get_users(user_id)
           id = ok.id
           if int(id) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on @Itz_venom_ayush's Owner"
                 await e.reply_text(text)
           elif int(id) == OWNER_ID:
                 text = f"This guy is Owner Of this Bots."
@@ -126,7 +126,7 @@ async def dmspam(xspam: Client, e: Message):
           ok = await xspam.get_users(Rizoel[0])
           id = ok.id
           if int(id) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on @Itz_venom_ayush's Owner"
                 await e.reply_text(text)
           elif int(id) == OWNER_ID:
                 text = f"This guy is Owner Of this Bots."
@@ -136,7 +136,7 @@ async def dmspam(xspam: Client, e: Message):
                 await e.reply_text(text)
           else:
               counts = int(Rizoelop[0])
-              await e.reply_text("☢️ Dm Spam Started ☢️")
+              await e.reply_text("🔥 Dm Spam Started 🔥")
               for _ in range(counts):
                     await xspam.send_message(id, msg)
                     await asyncio.sleep(0.10)
@@ -145,7 +145,7 @@ async def dmspam(xspam: Client, e: Message):
           ok = await xspam.get_users(user_id)
           id = ok.id
           if int(id) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on @Itz_venom_ayush's Owner"
                 await e.reply_text(text)
           elif int(id) == OWNER_ID:
                 text = f"This guy is Owner Of this Bots."
@@ -156,7 +156,7 @@ async def dmspam(xspam: Client, e: Message):
           else:
               counts = int(Rizoel[0])
               msg = str(Rizoelop[0])
-              await e.reply_text("☢️ Dm Spam Started ☢️")
+              await e.reply_text("🔥 Dm Spam Started 🔥")
               for _ in range(counts):
                     await xspam.send_message(id, msg)
                     await asyncio.sleep(0.10)
