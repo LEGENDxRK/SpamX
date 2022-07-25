@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="SpamX/RiZoeLX.png" alt="RiZoeLXSpam Logo">
+  <img src="https://telegra.ph/file/4c13beea0f4b44999a48b.jpg" alt="VENOMXSpam Logo">
 </p>
 <h1 align="center">
-  <b>• SᴘᴀᴍX •</b>
+  <b>• Venom-SᴘᴀᴍX •</b>
 </h1>
 
 ----
@@ -27,11 +27,11 @@
 > The easy way to host this bot, deploy to Heroku 
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RiZoeLX/SpamX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/venomowners20912/SpamX)
 
 <h4> Local Hosting </h4>
 
-<i> First Fork The [Repo](https://github.com/RiZoeLX/SpamX) </i>
+<i> First Fork The [Repo](https://github.com/venomowners20912/SpamX) </i>
 <br>
 <i> Now Rename semple.env as .env And Fill Your Values </i>
 
@@ -53,7 +53,7 @@
 <br>
 × <i> You'll need a API_ID & API_HASH in order to generate Pyrogram session string. Get This Values from https://my.telegram.org </i>
 <h4>• Generate Session Using Telegram Bot: </h4>    
-<p><a href="http://t.me/TELESTRING_BOT?start=generate"><img src="https://telegra.ph/file/1ccff3d3c8535d614ddf9.jpg" width="150""/></a></p>
+<p><a href="http://t.me/TELESTRING_BOT?start=generate"><img src="https://telegra.ph/file/4c13beea0f4b44999a48b.jpg" width="150""/></a></p>
 
 </details>
 
@@ -61,8 +61,8 @@
 
 <h3 align="center"> Support: </h3>
 
-  * <i> Channel </i>: [@RiZoeLX](https://t.me/RiZoeLX) <br>
-  * <i> Support </i>: [@DNHxHELL](https://t.me/DNHxHELL)
+  * <i> Channel </i>: [@dostokijaan](https://t.me/dostokijaan) <br>
+  * <i> Support </i>: [@venom_worlds_op](https://t.me/+6BiSF-S9moI5MDUx)
 
 ----
 
